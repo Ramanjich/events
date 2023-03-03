@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.item {
+  list-style-type: none;
+  width: 45%;
+  margin: 10px;
+}
+.event-images {
+  height: 160px;
+  width: 240px;
+}
+.name-para {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 17px;
+}
+.location-para {
+  color: #ffffff;
+  font-weight: bold;
+}
+.button {
+  border: none;
+  background-color: transparent;
+}
